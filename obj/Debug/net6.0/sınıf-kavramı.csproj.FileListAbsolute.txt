@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.exe
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.deps.json
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\bin\Debug\net6.0\sınıf-kavramı.pdb
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\refint\sınıf-kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.pdb
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\sınıf-kavramı.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\sınıf-kavramı\obj\Debug\net6.0\ref\sınıf-kavramı.dll
